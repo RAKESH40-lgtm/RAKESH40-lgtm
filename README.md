@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakesh40-lgtm" alt="rakesh40-lgtm" /></a> </p>
 
-- 🔭 I’m currently working on **Reactjs Portfolio**
-
 - 🌱 I’m currently learning **React.js,Node.js,Express,MongoDB**
 
 - 📫 How to reach me **rakesh974@mail.com**
