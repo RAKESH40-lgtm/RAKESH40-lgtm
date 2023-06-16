@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MongoDB,ExpressJs,React.js,Node.js,Python3**
 
-- 📫 How to reach me **rakesh974@mail.com**
+- 📫 How to reach me **rakeshsharmanv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
