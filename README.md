@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux,Next.js**
 
-- 📫 How to reach me **rakeshsharmanv@protonmail.com**
+- 📫 How to reach me **rakeshsharmanv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
