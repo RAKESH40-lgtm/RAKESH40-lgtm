@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm RAKESH V</h1>
-<h3 align="center">A passionate Frontend developer (React.js from India</h3>
+<h3 align="center">A passionate Full stack developer (MERN stack from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh40-lgtm&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh40-lgtm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakesh40-lgtm" alt="rakesh40-lgtm" /></a> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **typescript**
 
 - 📫 How to reach me **rakeshsharmanv19@gmail.com**
 
