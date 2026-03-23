@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RAKESH40-lgtm" alt="RAKESH40-lgtm" /></a> </p>
 
-- 🔭 I'm currently working on **React and Nextjs projects**
+- 🔭 I'm currently working on **React and React Native projects**
 
-- 🌱 I'm currently learning **Typescript and Nextjs**
+- 🌱 I'm currently learning **Typescript **
 
 - 🤝 I'm looking for help with **System design**
 
-- 💬 Ask me about **React **
+- 💬 Ask me about **React React Native **
 
 - 📫 How to reach me **rakeshvsharman@gmail.com**
 
